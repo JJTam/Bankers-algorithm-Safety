@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mr/CLion-Projects-workspace/COMP_3511_PA2/banker_safety_skeleton.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+
