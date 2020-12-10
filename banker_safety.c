@@ -1,8 +1,5 @@
 /**
  
-  Name: Tan YongJie
-  ITSC Email address: ytanaq@connect.ust.hk
-
   TODO: Explanation of Banker's algorithm (Safety). 
   You should use point form to explain how you implement this algorithm. For example:
 
